@@ -11,7 +11,6 @@
 
 I am a passionate developer based in the Philippines, currently pursuing my degree in **Computer Engineering**.
 
-* 🔭 I’m currently working on bridging **Web Development** and **Artificial Intelligence**.
 * 🎓 My background in engineering gives me a unique perspective on how software interacts with hardware.
 * 💼 I am currently **Open for Hire** and accepting **Freelance Projects**.
 
