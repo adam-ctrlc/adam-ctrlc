@@ -14,6 +14,12 @@ I am a passionate developer based in the Philippines, currently pursuing my degr
 * 🎓 My background in engineering gives me a unique perspective on how software interacts with hardware.
 * 💼 I am currently **Open for Hire** and accepting **Freelance Projects**.
 
+<br>
+
+<a href="https://adamctrlc-portfolio.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-Visit_Site-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
 ### 🛠️ The Tech Stack
 
 **Frontend & UI**
