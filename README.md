@@ -16,7 +16,7 @@ I am a passionate developer based in the Philippines, currently pursuing my degr
 
 <br>
 
-<a href="https://adamctrlc-portfolio.vercel.app">
+<a href="https://adamctrlc-portfolio.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-Visit_Site-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
