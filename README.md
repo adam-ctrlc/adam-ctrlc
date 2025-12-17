@@ -67,6 +67,11 @@ I specialize in helping students, startups, and small businesses bring their ide
 | **Full-Stack** | Handling everything from database design to frontend UI. |
 | **Reliable** | I value clear updates and timely delivery. |
 
+
+---
+
+![Metrics](https://github.com/adam-ctrlc/adam-ctrlc/blob/main/github-metrics.svg)
+
 ---
 
 ### 📫 Let's Connect
