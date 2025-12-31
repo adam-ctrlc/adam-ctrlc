@@ -16,7 +16,7 @@
 **Frontend & User Interface**
 <br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,tailwind,bootstrap,materialui,laravel,dotnet&perline=14" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,solidjs,nextjs,tailwind,bootstrap,materialui,laravel,dotnet&perline=14" />
 </a>
 
 **Backend, Cloud & Hosting**
@@ -25,7 +25,7 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,django,dotnet,nginx,azure,supabase,postgres&perline=14" />
 </a>
 
-**Data, Artificial Intelligence & Machine Learning**
+**Database, ORM, Artificial Intelligence & Machine Learning**
 <br>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,mysql,postgres,prisma,sklearn,opencv&perline=14" />
