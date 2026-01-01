@@ -22,7 +22,7 @@
 **Backend, Cloud & Hosting**
 <br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,django,dotnet,nginx,azure,supabase,postgres&perline=14" />
+ <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,django,dotnet,mysql,nginx,azure,supabase,postgres&perline=14" />
 </a>
 
 **Database, ORM, Artificial Intelligence & Machine Learning**
