@@ -34,7 +34,7 @@
 **Tools & Hardware**
 <br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,npm,pnpm,git,github,vscode,arduino&perline=14" />
+ <img src="https://skillicons.dev/icons?i=docker,npm,pnpm,git,github,vscode,arduino,raspberrypi,linux&perline=14" />
 </a>
 
 ---
