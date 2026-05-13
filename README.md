@@ -1,6 +1,6 @@
 # Hi, I'm John Adam! 👋
 
-### 🎓 3rd Year Computer Engineering Student
+### 🎓 4th Year Computer Engineering Student
 ### 💻 Software Engineer (Web & Artificial Intelligence) | Freelancer
 
 > "Bridging hardware logic with software scalability."
