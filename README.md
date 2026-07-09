@@ -11,6 +11,24 @@
 
 ---
 
+### 🙋 About Me
+
+I live in the space between the circuit board and the browser tab.
+
+By day I study Computer Engineering: how machines think at the level of voltage, logic gates, and clock cycles. By night I teach them to reason and to serve real people, shipping web apps and AI that turn rough ideas into things you can actually click.
+
+What I care about is the *whole* signal path. An Arduino reading the physical world, a neural network making sense of the data, and an interface clean enough that the person using it never has to think about any of it. I like problems that refuse to stay inside one layer.
+
+**Right now I'm:**
+
+* 🚀 Building AI-driven web applications and shipping freelance products end to end.
+* 📚 Going deeper on machine learning, system design, and motion/UX (hello, GSAP).
+* 🔌 Wiring software to hardware, because the best code should feel like good hardware: reliable, responsive, and invisible when it works.
+
+**Talk to me about** full-stack development, Large Language Models and Convolutional Neural Networks, or making software and hardware finally speak the same language.
+
+---
+
 ### 🛠️ Tech Stack
 
 **Frontend & User Interface**
