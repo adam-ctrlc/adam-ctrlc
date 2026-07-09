@@ -1,7 +1,7 @@
 # Hi, I'm John Adam 👋
 
 ### 🎓 4th Year Computer Engineering Student
-### 💻 Software Engineer in Web & Artificial Intelligence
+### 💻 Aspiring Software Engineer in Web & Artificial Intelligence
 
 > "From silicon to screen: I turn hardware logic and raw data into web products people actually enjoy using."
 
