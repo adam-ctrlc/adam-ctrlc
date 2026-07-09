@@ -1,9 +1,11 @@
-# Hi, I'm John Adam! 👋
+# Hi, I'm John Adam 👋
 
 ### 🎓 4th Year Computer Engineering Student
-### 💻 Software Engineer (Web & Artificial Intelligence) | Freelancer
+### 💻 Software Engineer in Web & Artificial Intelligence
 
-> "Bridging hardware logic with software scalability."
+> "From silicon to screen: I turn hardware logic and raw data into web products people actually enjoy using."
+
+**Available for freelance projects.**
 
 <a href="https://adamctrlc-portfolio.vercel.app">
  <img src="https://img.shields.io/badge/Visit_Portfolio-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white" />
@@ -102,13 +104,13 @@ What I care about is the *whole* signal path. An Arduino reading the physical wo
 ### 📫 Connect with me
 
 <a href="https://www.facebook.com/john.adam.cuenca/">
-  <img src="https://img.shields.io/badge/-1877F2?style=flat-square&logo=facebook&logoColor=white" title="Facebook" width="45" height="45"/>
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" title="Facebook" />
 </a>
 <a href="mailto:a2e56b85@gmail.com">
-  <img src="https://img.shields.io/badge/-D14836?style=flat-square&logo=gmail&logoColor=white" title="Email" width="45" height="45"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Email" />
 </a>
 <a href="https://github.com/adam-ctrlc">
-  <img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white" title="GitHub" width="45" height="45"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" title="GitHub" />
 </a>
 
 ![Metrics](https://github.com/adam-ctrlc/adam-ctrlc/blob/main/github-metrics.svg)
